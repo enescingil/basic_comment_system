@@ -1,0 +1,18 @@
+* {
+	background-color: #ddd;
+}
+
+textarea{
+	width: 33%;
+	height: 15%;
+	background-color: #fff;
+}
+
+button{
+	background-color: black;
+	border: none;
+	color: white;
+	font-family: arial;
+	font-weight: 100px;
+	cursor:pointer;
+}
